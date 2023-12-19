@@ -1,0 +1,36 @@
+*{
+    font-family: Cruinn;
+    font-size: large;
+}
+
+
+a.button{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(173, 222, 255);
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+
+a.button:hover {
+    background-color: aliceblue;
+    transition: all .3s;
+}
+
+
+@font-face { 
+    font-family: 'ljk_Adventure-Subtitles'; 
+    src: url('/fonts/ljk_Adventure-Subtitles.woff') format('woff'), 
+         url('/fonts/ljk_Adventure-Subtitles.ttf')  format('truetype'); 
+    font-weight: normal; 
+    font-style: normal; 
+  }
+
+  @font-face { 
+    font-family: 'Cruinn'; 
+    src: url('/fonts/Cruinn.woff') format('woff'), 
+         url('/fonts/Cruinn.ttf')  format('truetype'); 
+    font-weight: normal; 
+    font-style: normal; 
+  }

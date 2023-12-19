@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+* {
+    background-color: black;
+}
+
+#hobbies {
+    text-transform: uppercase;
+}
+
+#wrapper {
+    color: white;
+}
+
+#wrapper p {
+    font-family: 'Lobster', cursive;
+}

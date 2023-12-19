@@ -1,0 +1,17 @@
+#achievements1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#text1 {
+    margin-right: 25px;
+}
+
+#achievements2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#img2 {
+    margin-right: 25px;
+}
